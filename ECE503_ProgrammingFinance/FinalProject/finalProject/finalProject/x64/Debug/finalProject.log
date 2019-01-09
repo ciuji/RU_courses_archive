@@ -1,0 +1,15 @@
+﻿  BankAccount.cpp
+c:\users\user\desktop\programme\vsworkspace\finalproject\finalproject\bankaccount.cpp(84): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  BaseAccount.cpp
+c:\users\user\desktop\programme\vsworkspace\finalproject\finalproject\baseaccount.cpp(138): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  DoubleLinkedList.cpp
+c:\users\user\desktop\programme\vsworkspace\finalproject\finalproject\doublelinkedlist.cpp(182): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  drawStrategy.cpp
+c:\users\user\desktop\programme\vsworkspace\finalproject\finalproject\drawstrategy.cpp(76): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  finalProject.cpp
+c:\users\user\desktop\programme\vsworkspace\finalproject\finalproject\finalproject.cpp(174): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  Node.cpp
+c:\users\user\desktop\programme\vsworkspace\finalproject\finalproject\node.cpp(40): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  StockAccount.cpp
+c:\users\user\desktop\programme\vsworkspace\finalproject\finalproject\stockaccount.cpp(392): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  正在生成代码...
