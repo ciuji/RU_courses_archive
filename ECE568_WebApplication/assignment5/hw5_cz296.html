@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ECE568 Homework 5: volume calculation webiste</title>
+    <script type="text/javascript" src="hw5_cz296.js"></script>
+  </head>
+
+  <body>
+    <h1>This web site will find the volume for a Cylinder, Sphere or Cone</h1>
+
+    <form id="myForm">
+      Select the units(English or SI)<br/>
+      <input type="radio" name="unit" id="english" value="english" onclick="setUnit('English')" checked>English
+      <input type="radio" name="unit" id="si" value="si" onclick="setUnit('SI')">SI
+
+      <br/><br/>Select the shape
+      <select name="shape" onchange="setShape(this.value)">
+        <option value="Cylinder">Cylinder</option>
+        <option value="Sphere">Sphere</option>
+        <option value="Cone">Cone</option>
+      </select>
+
+      <br/><br/>Enter the radius
+      <input type="text" name="radius" onkeyup="setRadius(this.value)" required>
+
+      <br/><br/>For the cylinder and cone, enter the height
+      <input type="text" id="heightText" onkeyup="setHeight(this.value)">
+
+      <br/><br/>
+      <input type="button" onclick="resetForm()" value="Reset the form">
+    </form>
+
+    <h3>Results</h3>
+    <p id="unit_show">You select to use English units</p>
+    <p id="shape_show">You selected to find the volume of Cylinder</p>
+
+    <table border="2">
+      <tr>
+        <th>Shape</th>
+        <th>Radius</th>
+        <th>Height</th>
+        <th>Volume</th>
+      </tr>
+      <tr>
+        <th>Unit</th>
+        <th id="unit_t1">(ft)</th>
+        <th id="unit_t2">(ft)</th>
+        <th id="unit_t3">(ft^3)</th>
+      </tr>
+      <tr>
+        <td id="shape_t">Cylinder</td>
+        <td id="radius"></td>
+        <td id="height"></td>
+        <td id="volume"></td>
+      </tr>
+    </table>
+    <br/>
+    <input type="button" onclick="calculate()" value="Click to calculate the result">
+
+    </p>
+    </body>
+</html>
