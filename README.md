@@ -14,11 +14,28 @@ instructor: [Waheed U. Bajwa](http://www.inspirelab.us/people/)
 
 [syllabus here](https://github.com/ciuji/RU_courses_archive/blob/master/ECE445_MachineLearningForENGG/ECE445_Syllabus.pdf)
 
-
 ### ECE503: programming finanace
 instructor: Shiyu Zhou
 
 [syllabus here](https://www.ece.rutgers.edu/~szhou/503/503.html)
+
+## Spring 2019
+here is some basic information about the courses, you can check my [blog](http://ciuji.com/blog/#/posts/21) for more detail.
+
+### ECE568: Software Engineering of Web Applications
+instructor: Shiyu Zhou
+
+[syllabus here](https://www.ece.rutgers.edu/~szhou/568/568.html)
+
+### CS512: Introduction to Data Structures and Algorithms
+instructor: [Antonio Miranda](https://www.cs.rutgers.edu/~am2073/)
+
+[Introduction here](https://www.cs.rutgers.edu/courses/introduction-to-data-structures-and-algorithms)
+
+### CS520: Introduction To Artificial Intelligence
+insturctor: [Wes Cowan](https://www.cs.rutgers.edu/~cwcowan/)
+
+[syllabus here](https://www.cs.rutgers.edu/~cwcowan/Intro_to_AI_Syllabus.pdf)
 
 ## Warning
 For Rutgers students, you MUST fully adhere to the policy on [Academic Integrity](http://academicintegrity.rutgers.edu/academic-integrity-at-rutgers/)
