@@ -38,8 +38,8 @@ insturctor: [Wes Cowan](https://www.cs.rutgers.edu/~cwcowan/)
 [syllabus here](https://www.cs.rutgers.edu/~cwcowan/Intro_to_AI_Syllabus.pdf)
 
 ## Warning
-For Rutgers students, you MUST fully adhere to the policy on [Academic Integrity](http://academicintegrity.rutgers.edu/academic-integrity-at-rutgers/)
-when learning from anything GitHub.
+For Rutgers students, you MUST strictly adhere to [Rutgers University's Principles of Academic Integrity](http://academicintegrity.rutgers.edu/academic-integrity-at-rutgers/)
+when learning anything from GitHub.
 
 ## Lincense
 All the codes are licensed under [Anti-996-License-1.0](https://github.com/996icu/996.ICU/blob/master/LICENSE)
